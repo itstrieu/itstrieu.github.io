@@ -34,10 +34,10 @@ body {
 }
 
 // Add new styles for post summary
-.post-summary {
+.post p2 p-responsive wrap {
   max-height: 80px; // Reduced height to make the box shorter
   overflow: hidden;
-  margin-bottom: 20px; // Add some space below the summary
+  margin-bottom: 5px; // Add some space below the summary
 }
 
 // Adjust padding for the post container if needed
