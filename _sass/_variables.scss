@@ -1,5 +1,5 @@
 // Typography
-$base-font-size: 14px !default;
+$base-font-size: 12px !default;
 $bold-font-weight: bold !default;
 $font-family: 'Merriweather', 'PT Serif', Georgia, 'Times New Roman', serif !default;
 $line-height: 1.5 !default;
@@ -24,7 +24,7 @@ $h1-responsive-max: 3.84rem !default;
 $abbr-border-bottom: 1px black dotted;
 
 // Page width
-$measure-width: 42rem !default;
+$measure-width: 36rem !default; // Reduced from 42rem for narrower content
 
 // Viewport widths
 $viewport-small: 32em;
@@ -32,6 +32,7 @@ $viewport-medium: 48em;
 $viewport-large: 64em;
 
 // Colors
+// You can make changes to the page color palette here
 $blue: #0076df !default;
 $red: #f95020 !default;
 $green: #00cf26 !default;

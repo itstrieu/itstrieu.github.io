@@ -14,7 +14,7 @@ One of the best turning points was discovering data journalism while considering
 
 **Now, I’ve found a career that truly resonates with me. I love the ever-growing field of artificial intelligence and the problem-solving it demands. It’s everything I had hoped for—working on something meaningful and, finally, not being miserable.**
 
-In the early weeks of beginning to pursue machine learning engineering in earnest, I studied key skills such as Python, testing, and deep learning frameworks like PyTorch. I balanced my full-time job with night-after-night studying. My love for machine learning did not waver, but I started feeling constantly stressed and like I was always "behind." 
+In the early weeks of beginning to pursue machine learning engineering in earnest, I studied key skills in software engineering and concepts in deep learning. I balanced my full-time job with night-after-night studying. My love for machine learning did not waver, but I started feeling constantly stressed and like I was always "behind." 
 
 I eventually realized I was heading straight for burnout. The solution? A plan to create boundaries between work, study, and rest, and to define what "enough" really means. Naturally, I turned to ChatGPT for help. Using a series of prompts, I crafted a customized roadmap to transition from where I am to becoming a machine learning engineer.
 
@@ -72,10 +72,7 @@ I often struggle with projects because I have difficulty deciding what to focus 
 
 I am pursuing a career as a machine learning engineer and would like to understand the essential skills, knowledge, and experience required for this role, particularly in light of the latest technologies. Please provide:
 
-1. **A detailed list of essential skills** organized into specific categories. The list should include granular keywords without descriptions. Use the following markdown format:
-    
-    |Subcategory|Specification|Level|
-    |---|---|---|
+1. **A detailed list of essential skills** organized into specific categories. The list should include granular keywords without descriptions. 
     
 2. **Guidance on education**: Given that I have an MS in statistics, should I pursue another advanced degree, or is self-study sufficient to bridge the gap?
     
@@ -105,25 +102,31 @@ I am pursuing a career as a machine learning engineer and would like to understa
 
 ## Results from my ChatGPT Coaching Session
 ### Time Blocking Routine
-M/T/W/Th/F 
+**M/T/W/Th/F** 
+
 5:00 PM - 7:00 PM: Deep Learning (courses, academic papers, textbooks)
 
-M/W/F 
+**M/W/F** 
+
 7:00 PM - 8:00 PM: Small Projects (write templates and packages to streamline workflow, demonstrate 1-2 skills)
 
-T/Th
+**T/Th**
+
 7:00 PM - 8:00 PM: Skills Practice (DataCamp, LeetCode, Flashcards, etc.)
 
-Sat
+**Sat**
+
 9:00 AM - 12:00 PM: Deep Learning
 1:00 PM - 2:00 PM: Skills Practice
 2:00 PM - 4:00 PM: Small Projects
 
-Sun
+**Sun**
+
 9:00 AM - 12:00 PM: Review and Re-organize
 1:00 PM - 2:00 PM: Review, Clean, Publish to GitHub
 
-Every Night
+**Every Night**
+
 10:00 PM - 11:00 PM: Light Reading 
 
 ## Reducing Decision Fatigue, Friction, and Burnout
