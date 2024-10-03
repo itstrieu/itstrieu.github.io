@@ -6,9 +6,6 @@
 .posts .post {
   margin-bottom: 0.75em;
   border-bottom: thin solid #f3f3f3;
-  max-height: 150px; /* Limit the height */
-  overflow: hidden; /* Hide overflowing content */
-  text-overflow: ellipsis; /* Optional: adds ellipsis (...) for clipped content */
 }
 
 .posts .post:last-child {
@@ -26,6 +23,7 @@
 
 .post-footer {
   @extend .italic;
+
   margin-top: .75rem;
   text-align: center;
 }
@@ -43,7 +41,7 @@
   font-size: 12px;
   font-family: $heading-font-family;
   margin: 0;
-  padding: .1em 0;
+  padding: .25em 0;
   color: #7a7a7a;
   font-style: italic;
 }

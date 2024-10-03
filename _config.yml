@@ -110,10 +110,6 @@ text:
   thanks: 'Thanks for contacting me. I will reply as soon as possible.'
   og_locale: 'en_US'
 
-# Excerpt settings
-excerpt_separator: "<!--more-->" # This allows you to control where the summary cuts off in markdown files
-excerpt_length: 150 # Set the number of words for the excerpt
-
 
 # Build settings
 markdown:     kramdown
