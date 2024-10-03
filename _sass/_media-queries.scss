@@ -22,7 +22,9 @@
 
   .site-header .site-title {
     font-size: $h3;
+    font-family: $heading-font-family;
     float: left;
+    margin-bottom: 0;
   }
 
   .site-header .site-nav {
