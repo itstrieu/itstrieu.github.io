@@ -20,6 +20,7 @@
 
 .site-header nav a {
   color: $nav-color;
+  font-family: $heading-font-family; // Added this line to change the font for header nav links
 }
 
 .site-header nav a:hover,
