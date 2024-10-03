@@ -21,7 +21,7 @@ html, body {
 img {
   max-width: 100%;
 }
-
+ 
 em img {
   max-width: 100%;
   margin-left: 0;
@@ -32,3 +32,39 @@ body {
      -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
 }
+
+// Add new styles for post summary
+.post-summary {
+  max-height: 100px; // Adjust this value as needed
+  overflow: hidden;
+  position: relative;
+}
+
+// Optional: Add a fade effect at the bottom
+.post-summary::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 20px;
+  background: linear-gradient(to bottom, rgba(0,0,0,0), var(--bg-color));
+}
+
+// Adjust padding for the post container if needed
+.post.py3 {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+// Define a CSS variable for the background color
+:root {
+  --bg-color: #fafafa; // Default light background, adjust as needed
+}
+
+// You can override this variable in your main CSS file or in a media query for dark mode
+// @media (prefers-color-scheme: dark) {
+//   :root {
+//     --bg-color: #333; // Example dark background color
+//   }
+// }
