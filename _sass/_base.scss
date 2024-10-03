@@ -35,22 +35,9 @@ body {
 
 // Add new styles for post summary
 .post-summary {
-  max-height: 100px; // Adjust this value to make the box shorter
+  max-height: 80px; // Reduced height to make the box shorter
   overflow: hidden;
-  position: relative;
   margin-bottom: 20px; // Add some space below the summary
-}
-
-// Add a fade effect at the bottom
-.post-summary::after {
-  content: "";
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  height: 40px; // Increase the height of the fade effect
-  background: linear-gradient(to top, var(--bg-color), rgba(255,255,255,0));
-  pointer-events: none; // Ensures the fade doesn't interfere with text selection
 }
 
 // Adjust padding for the post container if needed
