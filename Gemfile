@@ -1,9 +1,6 @@
 # Specify the source for gems
 source "https://rubygems.org"
 
-# GitHub Pages gem, which includes the necessary Jekyll version and plugins
-gem "github-pages", group: :jekyll_plugins
-
 # Millennial theme dependency
 gem "millennial", "~> 2.0.0"
 
