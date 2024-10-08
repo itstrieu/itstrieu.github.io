@@ -14,7 +14,8 @@ title:		           "Cognitive Curiosities"
 description:	       "a blog about cognitive science, machine learning, artificial intelligence, neurodiversity, and everything in between"
 author:              "Kathy Trieu"
 github_username:     "itstrieu"
-
+url:                 "https://itstrieu.github.io"
+baseurl:             "/"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
