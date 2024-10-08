@@ -1,0 +1,20 @@
+current directory: C:/Users/Dog/Documents/Aris/04. github/itstrieu.github.io/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+C:/Ruby33-x64/bin/ruby.exe extconf.rb
+creating Makefile
+
+current directory: C:/Users/Dog/Documents/Aris/04. github/itstrieu.github.io/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20241007-30696-711xfj sitelibdir\=./.gem.20241007-30696-711xfj clean
+
+current directory: C:/Users/Dog/Documents/Aris/04. github/itstrieu.github.io/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20241007-30696-711xfj sitelibdir\=./.gem.20241007-30696-711xfj
+generating ruby_http_parser-x64-mingw-ucrt.def
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.so
+
+current directory: C:/Users/Dog/Documents/Aris/04. github/itstrieu.github.io/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20241007-30696-711xfj sitelibdir\=./.gem.20241007-30696-711xfj install
+/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20241007-30696-711xfj
+
+current directory: C:/Users/Dog/Documents/Aris/04. github/itstrieu.github.io/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20241007-30696-711xfj sitelibdir\=./.gem.20241007-30696-711xfj clean
