@@ -1,7 +1,19 @@
 ---
+title: Learning Log
 date: 2025-02-19
-topic: learning log
+layout: post
+tags:
+  - Machine
+  - Learning
+  - AI
+  - Career
+  - Progression
+  - Neurodiversity
+  - Productivity
+description: An explanation of how I plan to use this blog as a learning log. 
+image: learning.jpg
 ---
+
 # Wednesday, February 19, 2025
 
 I started this blog with the intentions laid out in my first post. However, getting started felt daunting. Months after writing that first post, I was listening to an interview with Daliana Liu on _Super Data Science_ when she said something along the lines of, "If you're one of those people with drafts lined up but are too afraid to publish, you should just do it." I felt like she was talking directly to me. Her message was clear: the most important thing is to start. It's okay to put out an imperfect product and improve over time. Another point that stuck with me was to write with intention—but that intention doesn’t have to be perfection or gaining thousands of followers. Writing is a way to process thoughts, reinforce learning, and build clarity. I've spent too many years not creating because I felt inadequate in a world already saturated with content.
