@@ -3,10 +3,12 @@ title: Fluent Python and Special Methods
 date: 2025-02-22
 layout: post
 tags:
-  - Python
-description: An explanation of how I plan to use this blog as a learning log.
+    - Python
+description: An overview of my plan to improve Python skills along with a writeup for a Python exercise on special methods. 
 image: python_special_method.jpg
 ---
+
+# Saturday, February 22, 2025
 
 Failing the Python portion of my technical interviews in December was both embarrassing and disappointing. However, it turned out to be an invaluable first technical interview experience. The interviewers were all incredibly talented and kind, and I walked away with a clear understanding of where to focus my efforts—an important win.
 
