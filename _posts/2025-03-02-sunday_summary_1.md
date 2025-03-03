@@ -3,11 +3,16 @@ title: Sunday Summary - #1
 date: 2025-02-19
 layout: post
 tags:
-  - Machine Learning
-  - AI
-  - Career
-  - Progression
-  - Productivity
+    - Machine Learning
+    - AI
+    - Career
+    - Progression
+    - Productivity
+    - Ollama
+    - LLM
+    - RAG
+    - MLflow
+    - MDP
 description: A weekly learning log to track my progress, reflect on motivation patterns, and challenge the mindset of “not doing enough.”
 image: start.jpg
 ---
