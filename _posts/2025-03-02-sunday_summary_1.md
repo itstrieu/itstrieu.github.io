@@ -1,6 +1,6 @@
 ---
-title: Sunday Summary - #1
-date: 2025-02-19
+title: Sunday Summary - 1
+date: 2025-03-02
 layout: post
 tags:
     - Machine Learning
