@@ -1,5 +1,5 @@
 ---
-title: Sunday Summary - #2
+title: Sunday Summary - 2
 date: 2025-02-19
 layout: post
 tags:
@@ -34,3 +34,5 @@ This week, I:
     - Read **Chapter 3 of _Designing Machine Learning Systems_**.
 - **Leetcode & Study Group:**
     - Resumed **Leetcode** practice by joining a local study group.
+- **Python Debugging**:
+    - Finally learned how to use a Python debugger to troubleshoot and step through code more effectively.
