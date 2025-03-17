@@ -1,0 +1,36 @@
+---
+title: Sunday Summary - #2
+date: 2025-02-19
+layout: post
+tags:
+- Machine Learning
+- AI
+- Career
+- Progression
+- Productivity
+description: A weekly learning log to track my progress, reflect on motivation patterns, and challenge the mindset of “not doing enough.”
+image: flower.jpg
+---
+### **Sunday, March 16, 2025**
+
+This week, I:
+
+- **Developed an AI Assistant:**
+    - Set up an AI assistant using **Ollama** and **FastAPI**.
+    - Integrated **RAG** with **FAISS** for document retrieval and built a **Streamlit UI** to interact with the assistant.
+    - Improved retrieval and response accuracy by refining context handling and prompt structure.
+- **Explored LLMs and Conversational AI:**
+    - Compared **Mistral**, **Mixtral**, and **Llama** models for RAG and conversational AI use cases.
+- **Optimized RAG Document Storage:**
+    - Explored scalable methods for storing and organizing RAG documents using **SQLite** and **MongoDB**.
+- **Worked on Tennis Ball Bot:**
+    - Completed tests on the **wheel motors** and **rotating cylinder fins** motor of the Tennis Ball Bot.
+    - Learned how to stream the object detection feed from the bot using **FastAPI** and **Cloudflare**.
+- **AWS Setup:**
+    - Ran instances on **EC2** to host the AI assistant I built with RAG.
+    - Learned how to configure **security settings**, adjust volume sizes, and configure other essential instance settings to ensure proper deployment and optimization.
+- **Machine Learning & Systems Design:**
+    - Finished **week 1 of Machine Learning in Production** from **DeepLearning.AI**.
+    - Read **Chapter 3 of _Designing Machine Learning Systems_**.
+- **Leetcode & Study Group:**
+    - Resumed **Leetcode** practice by joining a local study group.
