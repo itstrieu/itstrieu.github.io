@@ -26,7 +26,8 @@ Right now, I’m fine-tuning a YOLOv8n model to detect tennis balls. I collected
 
 Lately, I’ve been deeply involved with hardware: programming movement using omnidirectional wheels, testing encoder DC motors, and troubleshooting all the unpredictable behaviors that come with real-world components. I recently hit a milestone that felt like a real turning point: I built a motion controller that actually works. We cheered when the robot completed each direction we programmed for it from forward movement to strafing right. I also wrote a centralized logger so I could track what each wheel was doing in real time. 
 
-<video src="https://github.com/user-attachments/assets/51e9fd58-1a18-44bb-ae33-781211b183f4"></video>
+![Tennis Ball Bot Prototype](https://github.com/user-attachments/assets/3e39787b-551c-4f2c-b1a6-3052a9e0be3f)
+
 ```python
 class MotionController:
     def __init__(self):
