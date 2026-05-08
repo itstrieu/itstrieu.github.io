@@ -10,8 +10,8 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Cognitive Curiosities"
-description:	       "a blog about cognitive science, machine learning, artificial intelligence, neurodiversity, and everything in between"
+title:		           "it's trieu"
+description:	       "building things, figuring things out"
 author:              "Kathy Trieu"
 github_username:     "itstrieu"
 url:                 "https://itstrieu.github.io"
