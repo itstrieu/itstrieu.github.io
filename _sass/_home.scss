@@ -1,31 +1,30 @@
-.featured-post {
-  height: 400px;
-  margin: 5px 10px 10px;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
+.post-card {
+  padding: 2rem 10px;
+  border-bottom: 1px solid #e0e0e0;
 }
-.featured-post h2 {
-  bottom: 0;
-  margin: 0;
-  padding: 10px;
-  position: absolute;
+.post-card a {
+  text-decoration: none;
+  color: inherit;
+  display: block;
 }
-.featured-post h2 span {
-  display: inline-block;
-  color: white;
-  font: bold 24px/45px Helvetica, Sans-Serif;
-  letter-spacing: -1px;
-  background: rgb(0, 0, 0); /* fallback color */
-  background: rgba(0, 0, 0, 0.7);
-  padding: 10px;
+.post-card a:hover h2 {
+  color: #555;
 }
-.featured-post span a {
-  color: white;
+.post-card h2 {
+  margin: 0 0 0.4rem;
+  font-size: 1.4rem;
+  font-weight: 600;
+  transition: color 0.15s ease;
 }
-.featured-post h1 {
-  margin: 10px;
+.post-card .post-excerpt {
+  margin: 0 0 0.5rem;
+  color: #666;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+.post-card .post-meta {
+  color: #999;
+  font-size: 0.85rem;
 }
 
 /*
@@ -34,6 +33,7 @@
 
 .pagination {
   text-align: center;
+  margin-top: 2rem;
 }
 .pagination a {
   text-decoration: none;
