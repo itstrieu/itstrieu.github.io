@@ -61,7 +61,7 @@ Full ownership, no title. And from the start, I was designing these systems with
 
 AI collapsed the distance between understanding a problem and building the solution. Before these tools, I would have specced those systems out for an engineering team and waited. Instead, I made a different bet: master the tools and think harder about product. I put myself in founder communities, not to start a company but to absorb the mentality. See a problem. Own it end to end. Ship it. Iterate. That bet paid off.
 
-AI didn't replace specialists. It gave generalists execution speed they never had. But speed without judgment is just noise. The reason these tools work for me is that I spent years building the judgment first: the statistical thinking, the data intuition, the product instinct, the management experience. AI removed the bottleneck that kept people like me from acting on what we could already see. The depth is what made the seeing worth anything.
+AI gave generalists execution speed they never had. But speed without judgment is just noise. The reason these tools work for me is that I spent years building the judgment first: the statistical thinking, the data intuition, the product instinct, the management experience. AI removed the bottleneck that kept people like me from acting on what we could already see. The depth is what made the seeing worth anything.
 
 Breadth got me to the door. Depth gave me the foundation. AI gave me the speed to use both at once.
 
