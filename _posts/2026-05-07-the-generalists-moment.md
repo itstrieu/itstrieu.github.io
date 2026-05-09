@@ -65,7 +65,7 @@ AI gave generalists execution speed they never had. But speed without judgment i
 
 Breadth got me to the door. Depth gave me the foundation. AI gave me the speed to use both at once.
 
-That's why I call myself an AI systems builder. Not because it's a real title. Because it's the most honest description of what I actually do. And for the first time, the world seems to want exactly that. I spent years resigned to a landscape that rewarded specialists and didn't have a category for people like me. I'm still adjusting to the fact that it shifted in my direction.
+That's why I call myself an AI systems builder, for now. It doesn't fit perfectly. Maybe nothing ever will. But it's closer to the truth than any title I've been given, and I'm done waiting for a label that captures all of it before I let myself claim any of it. I spent years resigned to a landscape that rewarded specialists and didn't have a category for people like me. I'm still adjusting to the fact that it shifted in my direction.
 
 I think back to reading *Range* all those years ago, how I wanted to believe it but couldn't quite let myself. The validation I was looking for didn't come from a book. It came from the work finally catching up to the pattern.
 
