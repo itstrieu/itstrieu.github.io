@@ -31,7 +31,7 @@ That was the first time I proved to myself I could go deep. Not because it came 
 
 I graduated with the goal of becoming a data scientist. Around the same time, I started an AI book club and finished the deep learning specialization on Coursera. Machine learning engineering went from an interest to an obsession. And something shifted in me that had nothing to do with credentials or career planning. I stopped caring about being behind, about following a path, about what other people thought. For the first time I was just genuinely passionate, and that was enough to keep moving.
 
-Then I got hired at Meta for a job that required my weaknesses rather than my strengths. The role was data labeling analyst, reviewing code used to train Llama. I was honest in the interview: my background was in statistics and data science, not software engineering. They hired me anyway.
+Then I landed a contract role at Meta, a job that required my weaknesses rather than my strengths. The role was data labeling analyst, reviewing code used to train Llama. I was honest in the interview: my background was in statistics and data science, not software engineering. They hired me anyway.
 
 The plan was to use this job as a bridge. By day I reviewed MLE code at Meta. By night I studied to become one: textbooks, research papers, Python, object-oriented programming. I ground through LeetCode, voluntarily, which is how you know something had fundamentally changed. For the first time in my life, I was choosing difficulty, and I loved it.
 
