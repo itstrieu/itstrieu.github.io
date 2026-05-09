@@ -6,7 +6,7 @@ tags:
  - AI
  - career
  - generalist
-description: My title says project coordinator. My work says something else. This is the story of how I got here.
+description: Breadth got me to the door. Depth gave me the foundation. AI gave me the speed to use both at once.
 ---
 
 My title is project coordinator. I'm a contractor through Tundra Technical Solutions, stationed at Meta. That is not what I do.
