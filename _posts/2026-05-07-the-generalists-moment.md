@@ -9,7 +9,7 @@ tags:
 description: My title says project coordinator. My work says something else. This is the story of how I got here.
 ---
 
-My title at Meta is project coordinator. That is not what I do.
+My title is project coordinator. I'm a contractor through Tundra Technical Solutions, stationed at Meta. That is not what I do.
 
 What I do is study problems, design systems to solve them, and build those systems myself. On any given day I have multiple terminals open, each one a different project requiring an entirely different set of skills — data analysis, software engineering, product design. None of those are in my job description. I do them because they need doing and because I can. I also have a manager who recognized that before I did, and gave me the room to prove it.
 
