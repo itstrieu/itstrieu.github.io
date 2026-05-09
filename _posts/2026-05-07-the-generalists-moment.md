@@ -37,7 +37,7 @@ The plan was to use this job as a bridge. By day I reviewed MLE code at Meta. By
 
 The two tracks fed each other. Every script I reviewed at work, I studied closely — what made code robust, what made it fragile, what patterns held up under pressure. I had a knack for reading systems even when I couldn't yet build them fluently. The breadth I'd accumulated turned out to be exactly the right lens for evaluating training data quality. I was learning as the model learned.
 
-I didn't stay in that lane long. I started leading the training data team, then reached for coordination, then project ownership. I just kept seeing what needed doing and doing it.
+I didn't stay in that lane long. I started taking the lead on different workflows, then reached for coordination, then project ownership. I just kept seeing what needed doing and doing it.
 
 An unexpected opportunity came up: an interview for a DevOps and data engineering role. I'd been studying engineering on my own for months, but this was the first time I had to prove it in a room. I didn't get the job. But I walked away knowing the ceiling I'd assumed was there didn't actually exist.
 
