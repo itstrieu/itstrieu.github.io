@@ -17,7 +17,9 @@ I call myself an AI systems builder. That phrase came from looking at the distan
 
 I've always been this way. I spent over a decade cycling through careers: law, journalism, teaching, data science, restaurant management, nonprofit human rights work. As a kid, I kept discovering I was good at things without trying very hard. That sounds like a gift, but it was also a trap. I never had to push through difficulty, so I never learned how. I just moved on to the next thing that came easily.
 
-That pattern carried a cost I didn't talk about. Every year I watched people I'd started alongside build something — a practice, a title, a reputation, a trajectory that made sense to other people. I kept starting over. At some point, the question stopped being "what do I want to do?" and became "what is wrong with me that I can't just pick something?" I carried that for a long time. The shame of being almost-good-enough at a dozen things and not able to point to a single one and say *this is mine*. It's a specific kind of loneliness — being surrounded by people who know what they are, and not having an answer when someone asks you the same question.
+That pattern carried a cost I didn't talk about. Every year I watched people I'd started alongside build something — a practice, a title, a reputation, a trajectory that made sense to other people. I kept starting over. At first, people around me thought I was on my way somewhere. She's figuring it out, she'll land. But it took so long that I could feel their confidence fading. The question behind their eyes shifted from "where will she end up?" to "will she ever get it together?" That was painful, because I was asking myself the same thing. I had faith in myself longer than most people did, but even that was dying. I could learn so much, do so much, and still get nowhere.
+
+The shame of being almost-good-enough at a dozen things and not able to point to a single one and say *this is mine*. It's a specific kind of loneliness — being surrounded by people who know what they are, and not having an answer when someone asks you the same question.
 
 Early on, while I was still doing nonprofit work, I read David Epstein's *Range*. It was the first time I'd encountered the argument that breadth wasn't a deficiency. For a moment, I felt like maybe I wasn't broken. But that feeling didn't hold. Every time I changed direction after that, it still felt like failing. A book can tell you the pattern is valid. It can't make the pattern stop hurting.
 
@@ -27,7 +29,7 @@ Somehow I ended up back in data science. I honestly don't remember the moment I 
 
 That was the first time I proved to myself I could go deep. Not because it came easy, but because I decided to do it anyway.
 
-I graduated with the goal of becoming a data scientist. Around the same time, I started an AI book club and finished the deep learning specialization on Coursera. Machine learning engineering went from an interest to an obsession.
+I graduated with the goal of becoming a data scientist. Around the same time, I started an AI book club and finished the deep learning specialization on Coursera. Machine learning engineering went from an interest to an obsession. And something shifted in me that had nothing to do with credentials or career planning. I stopped caring about being behind, about following a path, about what other people thought. For the first time I was just genuinely passionate, and that was enough to keep moving.
 
 Then I got hired at Meta for a job that required my weaknesses rather than my strengths. The role was data labeling analyst, reviewing code used to train Llama. I was honest in the interview: my background was in statistics and data science, not software engineering. They hired me anyway.
 
