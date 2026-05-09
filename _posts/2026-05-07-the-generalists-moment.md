@@ -57,7 +57,7 @@ Then in early 2026, AI tools took another leap. Meta integrated AI across nearly
 
 My manager was running a large workforce and had no shortage of problems. She'd surface one — no visibility on contractor performance across the program — and trust me to figure it out. I designed an evaluation system from scratch: real-time dashboard, clean data model, the right metrics, low enough friction that people used it without being asked. Another gap: QA work buried in Google Sheets, invisible to leadership. I built an add-on, partnered with data engineering, and connected it into Meta's data ecosystem. The tool spread to other pillars on its own. I kept expanding it.
 
-Full ownership, no title. But every decision I made drew on something from a phase I once dismissed as aimless exploration.
+Full ownership, no title. And from the start, I was designing these systems with AI in mind — not as an afterthought, but as part of the architecture. LLM integrations, automated pipelines, bots. It's not about using AI to make things run faster. It's about rethinking the entire design so that AI and humans work together in ways that help both do better work. Every decision I made, from the data model to the prompt design, drew on something from a phase I once dismissed as aimless exploration.
 
 AI collapsed the distance between understanding a problem and building the solution. Before these tools, I would have specced those systems out for an engineering team and waited. Instead, I made a different bet: master the tools and think harder about product. I put myself in founder communities — not to start a company, but to absorb the mentality. See a problem. Own it end to end. Ship it. Iterate. That bet paid off.
 
