@@ -61,7 +61,7 @@ That recognition felt like another pivot, and pivots still felt like failing. Bu
 
 I leaned into project management. When I looked back, I realized that nearly every role I'd held across that decade of wandering was management in some form: running a classroom, running a restaurant floor, coordinating a nonprofit. I hadn't noticed the pattern because I was too busy feeling ashamed of it.
 
-I got promoted to project coordinator, and for the first time I treated a role as a craft. A lot of that is because of my manager. She's someone who gets things done exceptionally well on her own, which made it mean something when she chose to trust me with real responsibility instead. She mentored me, advocated for me, and gave me room to grow into work that was well beyond my title.
+I moved into a project coordinator role, and for the first time I treated a role as a craft. A lot of that is because of my manager. She's someone who gets things done exceptionally well on her own, which made it mean something when she chose to trust me with real responsibility instead. She mentored me, advocated for me, and gave me room to grow into work that was well beyond my title.
 
 Then in early 2026, AI tools took another leap. Meta integrated AI across nearly every workflow. The gap between what I could imagine and what I could build essentially disappeared. So I stopped worrying about roles and titles and did what I'd always done, I solved problems. Except now, for the first time, I could also build the solutions myself.
 
