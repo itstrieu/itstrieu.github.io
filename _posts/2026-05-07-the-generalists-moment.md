@@ -13,7 +13,7 @@ My title is project coordinator. I'm a contractor through Tundra Technical Solut
 
 What I do is study problems, design systems to solve them, and build those systems myself. On any given day I have multiple terminals open, each one a different project requiring an entirely different set of skills: data analysis, software engineering, product design. Most of that goes well beyond my job description. I do it because it needs doing and because I can. I also have a manager who recognized that before I did, and gave me the room to prove it.
 
-I call myself an AI systems builder. That phrase came from looking at the distance between my title and my output and deciding to name what was actually happening. But it took a long time to get here, and the path didn't look like a path while I was on it.
+The closest I've come to a name for it is AI systems builder. It's not perfect, but it's closer to the truth than any title I've been given. And it took a long time to get here. The path didn't look like a path while I was on it.
 
 I've always been this way. I spent over a decade cycling through careers: law, journalism, teaching, data science, restaurant management, nonprofit human rights work. As a kid, I kept discovering I was good at things without trying very hard. That sounds like a gift, but it was also a trap. I never had to push through difficulty, so I never learned how. I just moved on to the next thing that came easily.
 
