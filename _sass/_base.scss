@@ -1,7 +1,4 @@
-/*
-  Reset some basic elements
-*/
-
+// Reset
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
@@ -9,141 +6,133 @@ dl, dd, ol, ul, figure {
   padding: 0;
 }
 
-/*
-  Basic styling
-*/
-
-/* Headings */
-h1, h2, h3, h4, h5, h6 {
-  margin-bottom: .5rem;
-  line-height: 1.25;
-  text-rendering: optimizeLegibility;
-}
-
-h1 {
-  font-size: 1.75rem;
-  font-weight: 700;
-  letter-spacing: -0.02em;
-  margin-bottom: 0.75rem;
-}
-h2 {
-  margin-top: 2.5rem;
-  font-size: 1.375rem;
-  font-weight: 700;
-  letter-spacing: -0.01em;
-  margin-bottom: 0.75rem;
-}
-h3 {
-  margin-top: 2rem;
-  font-size: 1.125rem;
-  font-weight: 600;
-  margin-bottom: 0.5rem;
-}
-h4, h5, h6 {
-  margin-top: 1.5rem;
-  font-size: 1rem;
-  font-weight: 600;
-}
-
-/* Body */
+// Body
 body {
-  font-family: $base-font-family;
-  font-size: 1.0625rem;
-  line-height: 1.7;
-  color: #1a1a1a;
-  background-color: #ffffff;
+  font-family: $serif;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 1.75;
+  color: $text;
+  background-color: $bg;
+  font-optical-sizing: auto;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-body img {
-  display: block;
-  margin: 1.5rem auto;
-  max-width: 100%;
-  height: auto;
+
+// Headings
+h1, h2, h3, h4, h5, h6 {
+  font-family: $serif;
+  text-rendering: optimizeLegibility;
+}
+h1 {
+  font-size: 1.75rem;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  line-height: 1.3;
+  margin-bottom: 0.25rem;
+}
+h2 {
+  font-size: 1.35rem;
+  font-weight: 600;
+  letter-spacing: -0.015em;
+  line-height: 1.3;
+  margin-top: 2.5rem;
+  margin-bottom: 0.75rem;
+}
+h3 {
+  font-size: 1.125rem;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  line-height: 1.3;
+  margin-top: 2rem;
+  margin-bottom: 0.5rem;
+}
+h4, h5, h6 {
+  font-size: 1.125rem;
+  font-weight: 600;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
 }
 
+// Paragraphs
 p {
-  display: block;
   margin-top: 1em;
   margin-bottom: 1em;
-  margin-left: 0;
-  margin-right: 0;
-  font-family: $body-font-family;
 }
 
-/* Lists */
+// Lists
 ul, ol, dl {
-  margin-top: 1rem;
-  margin-bottom: 1rem;
-  margin-left: 1.5rem;
-  font-family: $body-font-family;
+  margin: 1.25rem 0 1.25rem 1.5rem;
 }
-
 li {
-  margin-bottom: 1rem;
+  margin-bottom: 0.75rem;
 }
-
 dt {
-  font-weight: bold;
+  font-weight: 600;
 }
 dd {
-  margin-bottom: .5rem;
+  margin-bottom: 0.5rem;
 }
 
-/*
-  Links
-*/
-
+// Links
 a {
-  color: $brand-color;
-  text-decoration: none;
+  color: $text;
+  text-decoration: underline;
+  text-decoration-color: $link-underline;
+  text-underline-offset: 3px;
+  transition: text-decoration-color 0.2s ease;
+}
+a:hover {
+  text-decoration-color: $accent;
 }
 
-/*
-  Blockquote
-*/
-
+// Blockquotes
 blockquote {
-  margin: 1.5rem 0;
+  margin: 1.75rem 0;
   padding: 0 0 0 1.25rem;
-  border-left: 3px solid #d0d0d0;
-  color: #595959;
-  line-height: 1.7;
-  font-style: italic;
+  border-left: 3px solid $blockquote-border;
+  color: #4a4a4a;
+  font-size: 1rem;
 }
 blockquote p {
   margin-top: 0.5em;
   margin-bottom: 0.5em;
 }
 
-/*
-  Horizontal rule
-*/
-
+// Horizontal rules — structural breath, no visible line
 hr {
   border: none;
-  border-top: 1px solid #e0e0e0;
-  margin: 3rem auto;
-  width: 100%;
+  margin: 48px 0;
 }
 
-/**
- * Tables
- */
+// Tables
 table {
   border-collapse: collapse;
-  margin-bottom: 30px;
+  margin: 1.5rem 0;
   width: 100%;
 }
-
 table, th, td {
-  border: 1px solid #d0d0d0;
+  border: 1px solid $rule;
 }
 th {
-  background-color: #f9f9f9;
+  background-color: $code-bg;
   font-weight: 600;
 }
 th, td {
   padding: 0.75rem 1rem;
   text-align: left;
+}
+
+// Images
+img {
+  display: block;
+  margin: 1.5rem auto;
+  max-width: 100%;
+  height: auto;
+}
+
+@media (max-width: $mobile-break) {
+  blockquote {
+    padding-left: 1rem;
+  }
 }

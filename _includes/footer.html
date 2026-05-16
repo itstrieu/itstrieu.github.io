@@ -1,6 +1,8 @@
-<footer class="footer">
-  {% for item in site.data.settings.social %}
-    <a href="{{ item.link }}" class="menu-link" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
-  {% endfor %}
-  <div class="footer-description"><a href="{{ site.baseurl }}/">{{ site.title }} | {{ site.description }} by {{ site.author.name | default: site.author }}</a></div>
+<footer class="site-footer">
+  <div class="footer-tagline">building things, figuring things out.</div>
+  <div class="footer-links">
+    <a href="https://github.com/itstrieu">GitHub</a>
+    <span class="footer-separator">&middot;</span>
+    <a href="https://www.linkedin.com/in/itstrieu">LinkedIn</a>
+  </div>
 </footer>

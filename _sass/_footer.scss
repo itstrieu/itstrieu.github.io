@@ -1,29 +1,33 @@
-.footer {
-  background: white;
-  color: $brand-color;
-  text-align: center;
-  min-height: 56px;
-  line-height: 45px;
-  width: $container-width;
+.site-footer {
+  margin-top: 4rem;
+  padding: 2rem 0;
+  border-top: 1px solid $rule;
 }
-.footer a {
-  color: $brand-color;
-  padding: 0px 10px 0px;
+.footer-tagline {
+  font-family: $mono;
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: 0.04em;
+  color: $text-secondary;
+  margin-bottom: 0.5rem;
+}
+.footer-links {
+  font-family: $mono;
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: 0.04em;
+}
+.footer-links a {
+  color: $text-secondary;
   text-decoration: none;
+  transition: color 0.2s ease;
 }
-@media (max-width: $container-width) {
-  .footer {
-    background: white;
-    color: $brand-color;
-    text-align: center;
-    min-height: 56px;
-    line-height: 45px;
-    width: 95vw;
-  }
+.footer-links a:hover {
+  color: $accent;
+  text-decoration: underline;
+  text-underline-offset: 3px;
 }
-.footer-description {
-  display: block;
-  margin-bottom: 1rem;
-  color: #717171;
-  font-size: 0.85rem;
+.footer-separator {
+  color: $text-secondary;
+  padding: 0 0.25rem;
 }

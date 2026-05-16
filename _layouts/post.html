@@ -2,34 +2,24 @@
 layout: default
 ---
 
-<div class="post-content">
-  <h1>
-    {{ page.title }}
-  </h1>
-  {% if site.hide_post_date != true %}
-    {% include post-date.html %}
-  {% endif %}
-  {% if page.image %}
-    <div class="featured-image">
-      <img src="{{ site.baseurl }}{{ page.image }}" alt="{{ page.title }}">
-    </div>
-  {% endif %}
-  <article>
+<article>
+  <h1>{{ page.title }}</h1>
+  {% include post-date.html %}
+  <div class="post-content">
     {{ content }}
-  </article>
+  </div>
   <nav class="post-nav">
     {% if page.previous.url %}
-      <a class="post-nav-link post-nav-prev" href="{{ site.baseurl }}{{ page.previous.url }}">
-        &larr; {{ page.previous.title }}
-      </a>
+      <div class="post-nav-item">
+        <span class="post-nav-label">Previous</span>
+        <a class="post-nav-title" href="{{ site.baseurl }}{{ page.previous.url }}">{{ page.previous.title }}</a>
+      </div>
     {% endif %}
     {% if page.next.url %}
-      <a class="post-nav-link post-nav-next" href="{{ site.baseurl }}{{ page.next.url }}">
-        {{ page.next.title }} &rarr;
-      </a>
+      <div class="post-nav-item post-nav-item--next">
+        <span class="post-nav-label">Next</span>
+        <a class="post-nav-title" href="{{ site.baseurl }}{{ page.next.url }}">{{ page.next.title }}</a>
+      </div>
     {% endif %}
   </nav>
-  {% if site.hide_related_posts != true %}
-    {% include related-posts.html %}
-  {% endif %}
-</div>
+</article>

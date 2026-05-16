@@ -1,56 +1,72 @@
-.post-card {
-  padding: 2rem 10px;
-  border-bottom: 1px solid #e0e0e0;
+.post-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
-.post-card a {
-  text-decoration: none;
-  color: inherit;
-  display: block;
+.post-list-item {
+  padding: 2.5rem 0;
+  border-bottom: 1px solid $rule;
+  margin: 0;
 }
-.post-card a:hover h2 {
-  color: #555;
+.post-list-item:first-child {
+  padding-top: 0;
 }
-.post-card h2 {
-  margin: 0 0 0.4rem;
-  font-size: 1.4rem;
+.post-list-date {
+  font-family: $mono;
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: $text-secondary;
+  margin-bottom: 0.25rem;
+}
+.post-list-title {
+  font-family: $serif;
+  font-size: 1.25rem;
   font-weight: 600;
-  transition: color 0.15s ease;
+  margin: 0;
+  line-height: 1.3;
 }
-.post-card .post-excerpt {
-  margin: 0 0 0.5rem;
-  color: #666;
-  font-size: 0.95rem;
-  line-height: 1.5;
+.post-list-title a {
+  color: $text;
+  text-decoration: none;
+  transition: color 0.2s ease;
 }
-.post-card .post-meta {
-  color: #717171;
-  font-size: 0.85rem;
+.post-list-title a:hover {
+  color: $accent;
 }
 
-/*
-  Pagination
-*/
-
+// Pagination
 .pagination {
   text-align: center;
-  margin-top: 2rem;
+  margin-top: 2.5rem;
+  padding-top: 1.5rem;
+}
+.pagination a,
+.pagination span {
+  font-family: $mono;
+  font-size: 13px;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  padding: 0.5rem 1rem;
 }
 .pagination a {
+  color: $text-secondary;
   text-decoration: none;
+  transition: color 0.2s ease;
 }
-.pagination-button {
-  color: #999;
-  border: 1px solid #e0e0e0;
-  padding: 15px 45px;
-  margin-top: 10px;
-  margin-bottom: 10px;
-  display: inline-block;
-  font-size: 16px;
-  font-weight: bold;
+.pagination a:hover {
+  color: $accent;
 }
-.pagination-active {
-  color: black;
+.pagination span {
+  color: $rule;
 }
-.pagination-active:hover {
-  background-color: #e0e0e0;
+
+@media (max-width: $mobile-break) {
+  .post-list-item {
+    padding: 2rem 0;
+  }
+  .post-list-title {
+    font-size: 1.15rem;
+  }
 }

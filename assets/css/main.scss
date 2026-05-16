@@ -1,29 +1,30 @@
 ---
 ---
 
-$base-font-family: 'Roboto', sans-serif;
-$body-font-family: 'Roboto', sans-serif;
-$code-font-family: "Source Code Pro", monospace;
+// Typography
+$serif: 'Source Serif 4', Georgia, serif;
+$mono: 'IBM Plex Mono', 'SFMono-Regular', Consolas, monospace;
 
-$brand-color: black;
+// Colors
+$bg: #fafaf8;
+$text: #1a1a1a;
+$text-secondary: #737373;
+$rule: #d6d3ce;
+$code-bg: #f0eeeb;
+$accent: #8c6d4f;
+$link-underline: #c8c4bc;
+$blockquote-border: #c8c4bc;
 
-$container-width: 1100px;
-$tablet-width: 600px;
-$phone-width: 480px;
+// Layout
+$content-width: 640px;
+$mobile-break: 640px;
+$small-break: 480px;
 
-$header-thickness: 56px;
-
-$icon-transition-time: 1.0s;
-$envelope-color: #f39c12;
-$twitter-color: #00aced;
-$instagram-color: #375989;
-$github-color: #343434;
-$linkedin-color: #0073a4;
-$facebook-color: #3d5b99;
-$google-color: #e64a41;
-$pinterest-color: #bd081c;
-$medium-color: #00AB6C;
-$codepen-color: black;
-$rss-color: #ff6600;
-
-@import "-sections-dir";
+@import "base",
+        "code",
+        "default",
+        "header",
+        "footer",
+        "home",
+        "page",
+        "post";
