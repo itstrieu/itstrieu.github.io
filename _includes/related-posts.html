@@ -8,16 +8,15 @@
         {% else %}
           <li>
             <h3>
-              <a href="{{ site.github.url }}{{ mypost.url }}">
+              <a href="{{ site.baseurl }}{{ mypost.url }}">
                 <div class="related-thumbnail">
                   {% if mypost.image %}
-                    <img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ mypost.image }}">
+                    <img src="{{ site.baseurl }}{{ mypost.image }}" alt="{{ mypost.title }}">
                   {% endif %}
                 </div>
                 <div class="related-title">
                   {{ mypost.title }}
                 </div>
-                <!--<small>{{ mypost.date | date: "%B %-d, %Y" }}</small>-->
               </a>
             </h3>
           </li>

@@ -1,5 +1,5 @@
 # Specify the source for gems
-source "http://rubygems.org"
+source "https://rubygems.org"
 
 # Millennial theme dependency
 gem "millennial", "~> 2.0.0"

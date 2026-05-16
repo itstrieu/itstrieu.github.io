@@ -9,7 +9,7 @@ tags:
 - Progression
 - Productivity
 description: A weekly learning log to track my progress, reflect on motivation patterns, and challenge the mindset of “not doing enough.”
-image: flower.jpg
+image: /assets/img/flower.jpg
 ---
 ### **Sunday, March 16, 2025**
 

@@ -3,15 +3,13 @@ title: Learning Log
 date: 2025-02-19
 layout: post
 tags:
-  - Machine
-  - Learning
+  - Machine Learning
   - AI
   - Career
-  - Progression
   - Neurodiversity
   - Productivity
-description: An explanation of how I plan to use this blog as a learning log. 
-image: learning.jpg
+description: An explanation of how I plan to use this blog as a learning log.
+image: /assets/img/learning.jpg
 ---
 
 # Wednesday, February 19, 2025

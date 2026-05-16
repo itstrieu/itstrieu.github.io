@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://itstrieu.github.io/sitemap.xml

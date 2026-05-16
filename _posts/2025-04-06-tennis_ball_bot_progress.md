@@ -3,19 +3,14 @@ title: Tennis Ball Bot Progress
 date: 2025-04-06
 layout: post
 tags:
- - Machine
- - Learning
- - AI
- - Career
- - Robotics
- - Object
- - Detection
- - Computer
- - Vision
- - YOLO
- - Tennis
-description: A personal reflection on building a tennis ball–retrieving robot using machine learning and robotics from the ground up.
-image: pi.jpg
+  - Machine Learning
+  - AI
+  - Robotics
+  - Computer Vision
+  - Object Detection
+  - YOLO
+description: A personal reflection on building a tennis ball-retrieving robot using machine learning and robotics from the ground up.
+image: /assets/img/pi.jpg
 ---
 
 This project began when a group of mechanical engineering friends came to me with an idea: build a robot that could find and retrieve tennis balls. They had the hardware vision but needed someone with programming and machine learning skills to bring it to life. It felt exciting—but also almost unreachable. Robotics was unfamiliar terrain, so I decided to start where I felt some footing: computer vision.

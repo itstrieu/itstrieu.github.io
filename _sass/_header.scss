@@ -9,11 +9,13 @@
 @media (max-width: $container-width) {
   .site-header {
     min-height: 56px;
-    width: 95vw;
+    width: 100%;
     position: fixed;
     background-color: white;
     box-shadow: 0 5px 6px -6px #bbb;
     z-index: 100;
+    box-sizing: border-box;
+    padding: 0 2.5vw;
   }
 }
 .site-header a {
@@ -71,6 +73,7 @@
   .dropdown-content {
     display: none;
     position: absolute;
+    right: 0;
     background-color: #f9f9f9;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
@@ -85,10 +88,10 @@
   .dropdown-content a:hover {
     background-color: #f1f1f1
   }
-  .dropdown:hover .dropdown-content {
+  .dropdown.open .dropdown-content {
     display: block;
   }
-  .dropdown:hover .dropbtn {
+  .dropdown.open .dropbtn {
     background-color: #f1f1f1;
   }
 }

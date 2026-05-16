@@ -14,7 +14,7 @@ tags:
     - MLflow
     - MDP
 description: A weekly learning log to track my progress, reflect on motivation patterns, and challenge the mindset of “not doing enough.”
-image: start.jpg
+image: /assets/img/start.jpg
 ---
 
 ### **Sunday, March 2, 2025**

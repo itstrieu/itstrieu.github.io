@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about
+description: Kathy Trieu builds AI systems at Meta and runs Aeterna, a digital architecture consultancy. Personal blog on AI, engineering, and career.
 ---
 
 I'm Kathy. I build AI systems at Meta and run a consulting practice called Aeterna on the side.

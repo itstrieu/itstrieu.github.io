@@ -10,12 +10,21 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "it's trieu"
-description:	       "building things, figuring things out"
-author:              "Kathy Trieu"
+title:               "it's trieu"
+description:         "building things, figuring things out"
+author:
+  name:              "Kathy Trieu"
+  url:               "https://itstrieu.github.io/about"
 github_username:     "itstrieu"
 url:                 "https://itstrieu.github.io"
-baseurl:             "/"
+baseurl:             ""
+lang:                en
+
+social:
+  name:              Kathy Trieu
+  links:
+    - https://github.com/itstrieu
+    - https://www.linkedin.com/in/itstrieu
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:

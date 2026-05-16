@@ -5,7 +5,7 @@ layout: post
 tags:
     - Python
 description: An overview of my plan to improve Python skills along with a writeup for a Python exercise on special methods. 
-image: python_special_methods.jpg
+image: /assets/img/python_special_methods.jpg
 ---
 
 # Saturday, February 22, 2025
