@@ -11,4 +11,4 @@ My day job puts me across program management, software engineering, data enginee
 
 This blog is where I think out loud about the work — what I'm building, what I'm figuring out, and what I notice along the way. No content strategy, just the practice of saying things in public.
 
-Previously this was Cognitive Curiosities, a blog about machine learning and cognitive science. Those posts are still here. I just outgrew the frame.
+Previously this was Cognitive Curiosities, a blog about machine learning and cognitive science. Those posts are still here. The scope just got wider.
